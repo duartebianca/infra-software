@@ -1,3 +1,2 @@
-/examples/prog
-/examples/cinco
-/examples/join
+/examples/*
+!/examples/*.c
